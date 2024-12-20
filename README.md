@@ -8,5 +8,5 @@ The first section of the jupyter notebook defines various functions for each pag
 
 The second section defines the patient_info dictionary. A list of dictionaries (representing different patients) can be passed through the scraper using a for loop. Changing an item in the dictionary changes the answer that will be selected on the respective page of the intake form.
 
-The third section opens a headful Playwright browswer, runs the scraper, and closes the browser.
+The third section opens a headful Playwright browser, runs the scraper, and closes the browser.
 
